@@ -1,8 +1,8 @@
-Class Solution:
+class Solution:
     def twoSum(self, nums, target):
-        mapp={}
-        for i ,num in enumerate(nums):
-            diff=target-num
-            if diff in mapp:
-                return[mapp[diff],i]
-            mapp[num] =i
+        hashmap = {}
+        for i, num in enumerate(nums):
+            diff = target - num
+            if diff in hashmap:
+                return [hashmap[diff], i]
+            hashmap[num] = i
