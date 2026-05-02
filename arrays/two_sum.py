@@ -1,3 +1,4 @@
+# fixed version
 class Solution:
     def twoSum(self, nums, target):
         hashmap = {}
