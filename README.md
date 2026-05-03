@@ -1,16 +1,38 @@
-# DSA Practice
+# DSA Practice 🚀
 
-This repository contains my daily Data Structures and Algorithms practice.
+This repository contains my daily practice of Data Structures and Algorithms using Python.
 
-## Topics
+---
+
+## 📂 Topics Covered
 - Arrays
 - Strings
 - Linked List
-- Trees (coming soon)
+- Stack
+- Queue
+- Recursion (upcoming)
 
-## Platforms
-- LeetCode
-- Codeforces
+---
 
-## Goal
-Solve 150+ problems in 60 days with consistent commits.
+## 📅 Progress
+
+### 🗓️ Day-wise Practice
+- Day 1: Two Sum (Arrays)
+- Day 2: Valid Parentheses (Stack)
+
+---
+
+## 🛠️ Tech Stack
+- Language: Python  
+- Platform: LeetCode, Codeforces  
+
+---
+
+## 🎯 Goal
+- Solve **1 problem daily**
+- Improve problem-solving skills
+- Build consistency and strong DSA foundation
+
+---
+
+## 📌 Structure
