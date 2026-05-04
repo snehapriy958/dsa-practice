@@ -14,14 +14,6 @@ This repository contains my daily practice of Data Structures and Algorithms usi
 
 ---
 
-## 📅 Progress
-
-### 🗓️ Day-wise Practice
-- Day 1: Two Sum (Arrays)
-- Day 2: Valid Parentheses (Stack)
-
----
-
 ## 🛠️ Tech Stack
 - Language: Python  
 - Platform: LeetCode, Codeforces  
