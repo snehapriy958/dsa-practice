@@ -1,3 +1,10 @@
+'''
+Problem: Best Time to Buy and Sell Stock
+Platform: LeetCode (121)
+Difficulty: EasyApproach: One-pass / Greedy
+Time Complexity: O(n)
+Space Complexity: O(1)
+'''
 class Solution:
     def maxProfit(self, prices: list[int]) -> int:
         min_price = float('inf') # Track the lowest price seen so far

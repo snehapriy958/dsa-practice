@@ -1,5 +1,5 @@
 # Problem: Valid Parentheses
-# Platform: LeetCode
+# Platform: LeetCode (20)
 # Difficulty: Easy
 # Approach: Stack
 

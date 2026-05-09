@@ -1,3 +1,14 @@
+'''
+Problem: Sum of Two Integers
+Platform: LeetCode (371)
+Difficulty: Medium
+Approach: Bit Manipulation (XOR for sum, AND + shift for carry)
+Time Complexity: O(1) (fixed to 32 bits)
+Space Complexity: O(1)
+
+'''
+
+
 def get_sum(a, b):
     # Mask to handle 32-bit integer overflow in Python (which has arbitrary precision)
     mask = 0xFFFFFFFF

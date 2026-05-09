@@ -1,5 +1,5 @@
 # Problem: Two Sum
-# Platform: LeetCode
+# Platform: LeetCode (1)
 # Difficulty: Easy
 # Approach: Hash Map
 # Time Complexity: O(n)

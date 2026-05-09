@@ -1,5 +1,5 @@
 # Problem: Rotate Matrix
-# Platform: LeetCode
+# Platform: LeetCode (48)
 # Difficulty: Medium
 # Approach: Transpose + Reverse
 # Time Complexity: O(n^2)

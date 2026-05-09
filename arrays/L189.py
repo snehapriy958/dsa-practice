@@ -1,3 +1,13 @@
+'''
+Problem: Rotate Array
+Platform: LeetCode (189)
+Difficulty: Medium
+Approach: Triple Reverse (Optimal In-place) or Slicing
+Time Complexity: O(n) for the triple reverse approach, O(n) for slicing
+Space Complexity: O(1) for the triple reverse approach, O(n) for slicing
+
+'''
+
 class Solution:
     def rotate(self, nums: list[int], k: int) -> None:
         """

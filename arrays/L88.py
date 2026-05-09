@@ -1,3 +1,14 @@
+'''
+Problem: Merge Sorted Array
+Platform: LeetCode (88)
+Difficulty: Easy
+Approach: In-place Merge + Sorting
+Time Complexity: O((m+n) log (m+n)) due to sorting (or O(m+n) if using a two-pointer approach)
+Space Complexity: O(1) if we ignore the space used for sorting (or O(m+n) if using extra space for merging)
+
+'''
+
+
 class Solution:
     def merge(self, nums1: list, m: int, nums2: list, n: int) -> None:
         """
