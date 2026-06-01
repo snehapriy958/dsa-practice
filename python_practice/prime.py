@@ -1,13 +1,14 @@
-def prime(num):
-    if num<2:
-        return False
-    for i in range(2, int(num**0.5)+1):
-        if num%i==0:
-            return False
-    return True
-    
-num=int(input("Enter a number: "))
-if prime(num):
-    print(f"{num} is a prime number.")  
+import math
+class Solution:
+    def prime(self,num:int)->int:
+        for i in range(2,int(math.sqrt(num))+1):
+            if num%i==0:
+                return False
+        return True
+
+num=33
+obj=Solution()
+if obj.prime(num):
+    print("Prime ")
 else:
-    print(f"{num} is not a prime number.")
+    print("Not prime")
